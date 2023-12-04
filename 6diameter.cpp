@@ -1,3 +1,7 @@
+//first e 1 k root dhore max depth er 
+// child ber korbo
+// erpor oi child k root dhore depth
+// ber korle max depth e hobe ans
 #include<iostream>
 #include<vector>
 using namespace std;
